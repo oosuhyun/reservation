@@ -1,0 +1,32 @@
+
+
+.react-datepicker__triangle {
+    transform: translate(125px, 0px) !important;
+}
+
+.react-datepicker-ignore-onclickoutside {
+    border: solid #616123 !important;
+    outline: none;
+
+}
+
+.react-datepicker {
+    font-family: 'NeoDunggeunmoPro-Regular' !important;
+    font-size: 0.8rem;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #aeaeae;
+    border-radius: 0.3rem;
+    display: inline-block;
+    position: relative;
+}
+
+.react-datepicker-wrapper {
+    display: inline-block;
+    padding: 0;
+    border: 0;
+    width: 100%;
+    /*font-family: 'NeoDunggeunmoPro-Regular' !important;*/
+    font-size: 1.0em !important;
+}
+
